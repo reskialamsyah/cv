@@ -1,0 +1,46 @@
+body {
+  background-color: #f9f6f6;
+}
+
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 5%;
+}
+
+h1{
+  color: #262825;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #262825;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  color: #262825;
+  font-family: 'Poppins', sans-serif;
+}
+
+table {
+  color: #262825;
+  font-family: 'Poppins', sans-serif;
+}
+
+ol {
+  color: #262825;
+  font-family: 'Poppins', sans-serif;
+}
+
+ul {
+  color: #262825;
+  font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color: #262825;
+  font-family: 'Poppins', sans-serif;
+}
